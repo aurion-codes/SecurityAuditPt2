@@ -5,10 +5,10 @@ FROM: Aurion Howard
 SUBJECT: Internal IT Audit Results and Recommendations
 
 Dear Team,
-Kindly review the following details concerning the internal audit conducted at Botium Toys. This communication outlines the audit scope, objectives, key findings, and associated recommendations.
+<p>Kindly review the following details concerning the internal audit conducted at Botium Toys. This communication outlines the audit scope, objectives, key findings, and associated recommendations.</p>
 
 Scope:
-● Evaluated systems: accounting, end point detection, firewalls, intrusion detection system, SIEM tool.
+<p>Evaluated systems: accounting, end point detection, firewalls, intrusion detection system, SIEM tool.</p>
 ○ Assessment areas: current user permissions, implemented controls, procedures, and protocols.
 ● Verify that present permissions, controls, procedures, and protocols align with PCI DSS and GDPR compliance requisites.
 ● Ensure inclusion of current technology details encompassing hardware and system access.
